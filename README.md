@@ -1,4 +1,4 @@
-# Sistem Pakar Prakiraan Cuaca dengan Metode Fuzzy Tsukamoto
+# Sistem Pakar Prakiraan Cuaca dengan Metode Fuzzy Tsukamoto - Semester 7
 
 ![image alt](https://github.com/neubrii/sistem-pakar-prakiraan-cuaca-dengan-metode-fuzzy-tsukamoto/blob/f157edf32574cfa7692fd81807a49434c5bfdd66/screenshot.png)
 
